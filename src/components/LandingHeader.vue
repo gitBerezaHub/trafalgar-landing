@@ -27,7 +27,7 @@
   .header__inner {
     display: flex;
     height: 10vh;
-    padding: 30px 60px;
+    padding: 30px 100px 60px;
     justify-content: space-between;
     align-items: center;
   }
@@ -39,7 +39,7 @@
       justify-content: center;
 
       .header__menu-item {
-        font-size: 18px;
+        font-size: 16px;
         font-weight: 400;
         line-height: 22.59px;
         text-align: left;
