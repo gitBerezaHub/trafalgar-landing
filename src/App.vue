@@ -1,11 +1,13 @@
 <template>
   <landing-header />
   <welcome-view />
+  <our-services />
 </template>
 
 <script setup>
 import LandingHeader from '@/components/LandingHeader.vue'
-import WelcomeView from '@/components/WelcomeView.vue'
+import OurServices from '@/views/OurServices.vue'
+import WelcomeView from '@/views/WelcomeView.vue'
 </script>
 
 <style lang="scss">

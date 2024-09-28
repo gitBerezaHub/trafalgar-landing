@@ -20,7 +20,7 @@
         </div>
       </div>
       <div class="main__right">
-        <img src="@/assets/welcome-img.png" alt="" width="462">
+        <img src="../assets/welcome.png" alt="" width="462">
       </div>
     </div>
   </main>
